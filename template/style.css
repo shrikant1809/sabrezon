@@ -132,3 +132,21 @@ html{
     right: .5rem;
     top: 1.5rem
   }
+  /* Image */
+  img{
+    border-radius: 0.5rem;
+  }
+  img.medium{
+    max-width: 29rem;
+    width: 100%;
+  }
+  /* Card */
+  .card{
+    border:#f0f0f0;
+    background-color: #f0f0f0;
+    border-radius: 0.5rem;
+    margin: 1rem;
+  }
+  .card-body{
+    
+  }
