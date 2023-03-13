@@ -25,7 +25,7 @@ function App() {
       <Route path="/product/:id" component={ProductScreen}>
 
       </Route>
-      <Route path="/" cpmponent={HomeScreen} exact > 
+      <Route path="/" component={HomeScreen} exact > 
 
       </Route>
       

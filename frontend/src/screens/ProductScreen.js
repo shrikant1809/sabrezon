@@ -1,8 +1,7 @@
+
+
 export default function ProductScreen() {
-    return 
-    <div>
-        Product Screen
-    </div>
+    return <div> ProductScreen</div>
     
     } 
     

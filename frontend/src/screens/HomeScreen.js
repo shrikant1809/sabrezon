@@ -1,4 +1,4 @@
-import Product from '../components/product';
+import Product from '../components/Product';
 import data from '../data';
 export default function HomeScreen() {
     return (
