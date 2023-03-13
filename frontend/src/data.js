@@ -1,7 +1,7 @@
 const data = {
     products:[
         {
-            _id:'1';
+            _id:'1',
             name: 'Nike Slim Shirt',
             category:'Shirts',
             image:'/images/p1.jpg',
@@ -10,9 +10,9 @@ const data = {
             rating: 4.5,
             numReviews:10,
             description:'high quality product',
-        }
+        },
         {
-            _id:'2';
+            _id:'2',
             name: 'Adidas Slim Shirt',
             category:'Shirts',
             image:'/images/p2.jpg',
@@ -21,9 +21,10 @@ const data = {
             rating: 4,
             numReviews:10,
             description:'high quality product',
-        }
+        },
         {
-            _id:'3';
+        
+            _id:'3',
             name: 'Lacoste Shirt',
             category:'Shirts',
             image:'/images/p3.jpg',
@@ -32,7 +33,8 @@ const data = {
             rating: 4.5,
             numReviews:10,
             description:'high quality product',
-        }
+        },
+
         {
             _id:'4',
             name: 'Nike Pants',
@@ -43,7 +45,7 @@ const data = {
             rating: 4.9,
             numReviews:15,
             description:'high quality product',
-        }
+        },
         {
             _id:'5',
             name: 'Puma',
@@ -54,7 +56,7 @@ const data = {
             rating: 3.5,
             numReviews:50,
             description:'high quality product',
-        }
+        },
         {
             _id:'6',
             name: 'Adidas Pants',
@@ -68,3 +70,4 @@ const data = {
         }
     ]
 }
+export default data 
